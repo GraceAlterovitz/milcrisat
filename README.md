@@ -1,10 +1,10 @@
 # milcrisat - CRISPR Analysis Tools
    
-**Introduction:**
+**Introduction**
 This pipeline is designed to enable standard QC, read trimming/filtering, read normalization and sgRNA read count in CRISPR-Cas9 genome-wide screening workflow. In current working pipeline, QC (fastqc, multiqc and nanoplot if Nanopore data), intermediate fastq files (seqkit and cutadapt) and MAGeCK count results will be outputted. 
 
 
-**Usage:**
+**Usage**
 1. Set up git environment in conda/mamba. 
 Install associated Python libraries. MAGeCK_environment.yml includes all associated Python libraries.  
 
@@ -18,7 +18,7 @@ Illumina data:
 ./MAGeCK_run.sh CURRENT_DIRECTORY SAMPLE_NAME
 
 
-**Output:**
+**Output**
 All results and intermediate files will be populated under the output folder under CURRENT_DIRECTORY as default. 
 
 Folder structure will be generated in a hierarchy as below.
