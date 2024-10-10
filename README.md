@@ -1,4 +1,4 @@
-# milcrisat - CRISPR Analysis Tools
+# milcrisat - Illumina Amplicon sgRNA Analysis Pipeline
    
 **Introduction**
 
