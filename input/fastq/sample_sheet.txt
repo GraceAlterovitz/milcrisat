@@ -1,0 +1,3 @@
+output_name	treatment_sample	control_sample
+Treatment_1-vs-Control_1	Treatment_1	Control_1
+Treatment_2-vs-Control_2	Treatment_2	Control_2
